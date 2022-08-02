@@ -117,16 +117,16 @@ Descendent combinator
 </div>
 
 <div class="contents"></div> <!-- D -->
-``````````````````````````````````````````````
-`````````````````````````````````````````````
+
 /* styles.css */
 
 .ancestor .contents {
   /* some declarations */
 }
 ``````````````````````````````````
-by using about css only B and C elements are selected
+by using about css only B and C elements are selected<br/>
 **CSS Box Model**
+
 ![image](https://user-images.githubusercontent.com/48470508/182448554-4c87654f-bd25-4aac-8f4a-5b77b1fad13e.png)
 
 
